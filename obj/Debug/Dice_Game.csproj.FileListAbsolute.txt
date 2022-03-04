@@ -1,0 +1,6 @@
+D:\Projects\Chapter_6\Dice_Game\Dice_Game\bin\Debug\Dice_Game.exe.config
+D:\Projects\Chapter_6\Dice_Game\Dice_Game\bin\Debug\Dice_Game.exe
+D:\Projects\Chapter_6\Dice_Game\Dice_Game\bin\Debug\Dice_Game.pdb
+D:\Projects\Chapter_6\Dice_Game\Dice_Game\obj\Debug\Dice_Game.csproj.CoreCompileInputs.cache
+D:\Projects\Chapter_6\Dice_Game\Dice_Game\obj\Debug\Dice_Game.exe
+D:\Projects\Chapter_6\Dice_Game\Dice_Game\obj\Debug\Dice_Game.pdb
